@@ -1,0 +1,1 @@
+A web app through which a user can log in and view information about their account. Users will also be able to see playlists that they could be interested in.
